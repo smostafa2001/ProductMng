@@ -6,6 +6,7 @@ It's UI designed with Swing
 and i used Postgresql as database engine.
 I did'nt use any spescial frameworks in it.
 It's pure Java SE.
+Features: Two languages Farsi and English - Excel Exporter
 Hope you enjoy.
 
 
@@ -25,4 +26,5 @@ Swing
 Postgresql
 استفاده شده.
 و از فریم ورک خاصی هم استفاده نشده.
+این برنامه با دو زبان انگلیسی و فارسی کار میکنه و خروجی اکسل هم بهتون میده.
 امیدوارم خوشتون بیاد از این پروژه.
