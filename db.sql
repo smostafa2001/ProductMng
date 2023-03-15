@@ -1,4 +1,5 @@
-﻿CREATE TABLE product_tbl
+﻿
+CREATE TABLE product_tbl
 (
   id bigint NOT NULL, --
   name_product character varying,
